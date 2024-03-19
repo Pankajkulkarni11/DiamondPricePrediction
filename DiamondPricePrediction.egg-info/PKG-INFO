@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: DiamondPricePrediction
+Version: 0.0.1
+Author: Pankaj
+Author-email: pankajcoolkarni11@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
